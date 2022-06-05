@@ -124,3 +124,4 @@ Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移�
 [34]: https://www.xiaoyuzhoufm.com/podcast/5e61295c418a84a046453da3?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, '听学编程之Python'
 [35]: https://www.xiaoyuzhoufm.com/podcast/5e40feac418a84a04674c8d3?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, '极客方式'
 [36]: https://www.xiaoyuzhoufm.com/podcast/5e2831f1418a84a04623387d?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, 'IT 公论'
+[37]: https://github.com/opensource-f2f/devops-talk, 'DevOps Talk'
