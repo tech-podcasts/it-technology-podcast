@@ -92,6 +92,8 @@ Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移�
 跑在 CICD 上的 DevOps 中文播客。
 38. [科技双眼啤][38]
 由开发者 Cali 与设计师 Rather 共同主持，我们是从设计到开发等不同的视角对互联网软件硬件进行深入探讨的科技播客。 佐声道主理人 Cali 在留美期间有丰富的工作经验，对于产品有极度的热爱以及不同的体验经历； 设计师 Rather 一直在国内从事着 UI 设计师的工作，并在这一行有着不同的独特见解。
+39. [NebulaGraph 星球][39]
+我们聊开源、分布式系统、图技术以及 [NebulaGraph](https://github.com/vesoft-inc/nebula) 图数据库社区的一切。
 
 [1]: https://www.xiaoyuzhoufm.com/podcast/617ab62d9a75e8810fc37b99, '开源面对面'
 [2]: https://www.xiaoyuzhoufm.com/podcast/5f6459be83c34e85dd859c78?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, '质量三人行'
@@ -131,3 +133,4 @@ Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移�
 [36]: https://www.xiaoyuzhoufm.com/podcast/5e2831f1418a84a04623387d?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, 'IT 公论'
 [37]: https://github.com/opensource-f2f/devops-talk, 'DevOps Talk'
 [38]: https://xiaoyuzhoufm.com/podcast/6301f1f98063c4980da9806a, '科技双眼啤'
+[39]: https://xiaoyuzhoufm.com/podcast/61d4278c2654166e94d07d1f, 'NebulaGraph 星球'
