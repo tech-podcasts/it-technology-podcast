@@ -89,6 +89,8 @@ Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移�
 《IT 公论》由 IPN 出品、不鸟万如一和 Rio 主持，首播于二零一三年十一月。本节目系一种综合性之科技节目。收听对象，并不限于社会上某一阶层。凡职业部门不同，知识水准互异，而对于科技有共同兴趣者，从任何角度，收听此秀，不致味同嚼蜡，毫无所得。一切题材，即就雅俗两极之范围内，伸缩去取，尽量适用多方面之需要，以求俗不伤雅，雅不背时。 科技播客，非奇技淫巧之表现也，亦非粉黑二元论争也。盖科技与吾人之关系至密至切，而欲其适合各人之需要，不悖于美之真义，则软件式款，与夫工作生活之配合，用例之转换，必有相当研究方克能之。而欲吾人乐愿研究之，则对于科技之兴趣，必先有以引起之，此《IT 公论》之滥觞也。
 37. [DevOps Talk][37]
 跑在 CICD 上的 DevOps 中文播客。
+38. [科技双眼啤][38]
+由开发者 Cali 与设计师 Rather 共同主持，我们是从设计到开发等不同的视角对互联网软件硬件进行深入探讨的科技播客。 佐声道主理人 Cali 在留美期间有丰富的工作经验，对于产品有极度的热爱以及不同的体验经历； 设计师 Rather 一直在国内从事着 UI 设计师的工作，并在这一行有着不同的独特见解。
 
 [1]: https://www.xiaoyuzhoufm.com/podcast/617ab62d9a75e8810fc37b99, '开源面对面'
 [2]: https://www.xiaoyuzhoufm.com/podcast/5f6459be83c34e85dd859c78?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, '质量三人行'
@@ -127,3 +129,4 @@ Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移�
 [35]: https://www.xiaoyuzhoufm.com/podcast/5e40feac418a84a04674c8d3?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, '极客方式'
 [36]: https://www.xiaoyuzhoufm.com/podcast/5e2831f1418a84a04623387d?s=eyJ1IjoiNWY3MzIxNzhlMGY1ZTcyM2JiODM5Y2Y1In0%3D, 'IT 公论'
 [37]: https://github.com/opensource-f2f/devops-talk, 'DevOps Talk'
+[38]: https://xiaoyuzhoufm.com/podcast/6301f1f98063c4980da9806a, '科技双眼啤'
