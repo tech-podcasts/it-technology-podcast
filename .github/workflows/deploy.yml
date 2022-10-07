@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - website
+      - main
     # 如果你想要进一步定义触发条件、路径等，可以查看文档
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
