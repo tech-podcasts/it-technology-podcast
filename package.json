@@ -1,0 +1,21 @@
+{
+    "name": "root",
+    "version": "0.0.0",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "website"
+    ],
+    "scripts": {
+        "docusaurus": "pnpm run -C website docusaurus",
+        "start": "pnpm run -C website start",
+        "build": "pnpm run -C website build",
+        "swizzle": "pnpm run -C website swizzle",
+        "deploy": "pnpm run -C website deploy",
+        "clear": "pnpm run -C website clear",
+        "serve": "pnpm run -C website serve",
+        "write-translations": "pnpm run -C website write-translations",
+        "write-heading-ids": "pnpm run -C website write-heading-ids"
+    },
+    "devDependencies": {}
+}
