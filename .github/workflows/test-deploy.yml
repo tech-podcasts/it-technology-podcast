@@ -1,0 +1,27 @@
+name: Test deployment
+
+on:
+  pull_request:
+    branches:
+      - main
+    # 如果你想要进一步定义触发条件、路径等，可以查看文档
+    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+
+jobs:
+  test-deploy:
+    name: Test deployment
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm i
+      - name: Test build website
+        run: pnpm run build
