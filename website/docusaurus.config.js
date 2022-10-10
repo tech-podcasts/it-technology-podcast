@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'IT 技术相关播客',
   tagline: '收集 IT 技术相关播客。',
-  url: 'https://stevending1st.github.io/',
+  url: 'https://tech-podcasts.github.io/',
   baseUrl: '/it-technology-podcast/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'stevending1st', // Usually your GitHub org/user name.
+  organizationName: 'tech-podcasts', // Usually your GitHub org/user name.
   projectName: 'it-technology-podcast', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -76,7 +76,7 @@ const config = {
           { to: '/docs/tags', label: '🏷️分类标签', },
           { to: '/blog', label: '公告', position: 'left' },
           {
-            href: 'https://github.com/stevending1st/it-technology-podcast',
+            href: 'https://github.com/tech-podcasts/it-technology-podcast',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/stevending1st/it-technology-podcast',
+                href: 'https://github.com/tech-podcasts/it-technology-podcast',
               },
             ],
           },

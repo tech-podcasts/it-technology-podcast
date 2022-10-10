@@ -2,11 +2,11 @@
 
 IT 技术相关播客列表，目前仅包含节目，后续会添加单集。（欢迎 PR）
 
-![GitHub Repo stars](https://img.shields.io/github/stars/stevending1st/it-technology-podcast?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/stevending1st/it-technology-podcast?style=for-the-badge) 
-![GitHub contributors](https://img.shields.io/github/contributors/stevending1st/it-technology-podcast?logoColor=blue&style=for-the-badge)
-<!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/stevending1st/it-technology-podcast?logoColor=green&style=for-the-badge) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/stevending1st/it-technology-podcast?logoColor=yellow&style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/stevending1st/it-technology-podcast?logoColor=9cf&style=for-the-badge) -->
+![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/it-technology-podcast?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/tech-podcasts/it-technology-podcast?style=for-the-badge) 
+![GitHub contributors](https://img.shields.io/github/contributors/tech-podcasts/it-technology-podcast?logoColor=blue&style=for-the-badge)
+<!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/tech-podcasts/it-technology-podcast?logoColor=green&style=for-the-badge) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/tech-podcasts/it-technology-podcast?logoColor=yellow&style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr/tech-podcasts/it-technology-podcast?logoColor=9cf&style=for-the-badge) -->
 
 ## TODO
 - [ ] 添加单集
