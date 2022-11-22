@@ -136,4 +136,4 @@ KubeSphere Talk 是由 KubeSphere 发起的一档访谈、聊天的音频节目�
 [37]: https://github.com/opensource-f2f/devops-talk, 'DevOps Talk'
 [38]: https://xiaoyuzhoufm.com/podcast/6301f1f98063c4980da9806a, '科技双眼啤'
 [39]: https://xiaoyuzhoufm.com/podcast/61d4278c2654166e94d07d1f, 'NebulaGraph 星球'
-[40]: https://www.xiaoyuzhoufm.com/podcast/6375d6e8b0725ebdf1e702e6, ‘KubeSphere Talk'
+[40]: https://www.xiaoyuzhoufm.com/podcast/6375d6e8b0725ebdf1e702e6, 'KubeSphere Talk'
