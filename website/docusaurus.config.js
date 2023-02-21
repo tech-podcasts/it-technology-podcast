@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: '行为规范',
-                to: '/code-of-conduct',
+                to: 'https://github.com/tech-podcasts/it-technology-podcast/blob/main/CODE_OF_CONDUCT.md',
               },
               {
                 label: '贡献者指南',
