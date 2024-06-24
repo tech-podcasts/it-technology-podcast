@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3639],{9176:e=>{e.exports=JSON.parse('{"permalink":"/it-technology-podcast/blog/tags/\u516c\u544a","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

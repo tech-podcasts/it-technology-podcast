@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>IT 技术相关播客 Blog</title>
+        <link>https://tech-podcasts.github.io/it-technology-podcast/blog</link>
+        <description>IT 技术相关播客 Blog</description>
+        <lastBuildDate>Mon, 10 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[本项目捐献已完成]]></title>
+            <link>https://tech-podcasts.github.io/it-technology-podcast/blog/2022/10/10/cost/donation-completed</link>
+            <guid>/2022/10/10/cost/donation-completed</guid>
+            <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[项目已于 2022 年 10 月 9 日完成迁移到 tech-podcasts。感谢各位的支持。]]></description>
+            <content:encoded><![CDATA[<p>项目已于 <a href="https://github.com/tech-podcasts/it-technology-podcast/issues/8#issuecomment-1272435330" target="_blank" rel="noopener noreferrer" title="项目迁移">2022 年 10 月 9 日</a>完成迁移到 <a href="https://github.com/tech-podcasts" target="_blank" rel="noopener noreferrer" title="tech-podcasts">tech-podcasts</a>。感谢各位的支持。</p><p><strong>相关链接：</strong></p><ul><li><a href="https://github.com/tech-podcasts/it-technology-podcast/issues/8" target="_blank" rel="noopener noreferrer" title="捐献本项目">捐献本项目</a></li><li><a href="https://github.com/tech-podcasts/community/issues/5" target="_blank" rel="noopener noreferrer" title="迁移《IT 技术相关播客列表》到当前 Org 下维护">迁移《IT 技术相关播客列表》到当前 Org 下维护</a></li></ul>]]></content:encoded>
+            <category>公告</category>
+            <category>项目捐献</category>
+        </item>
+        <item>
+            <title><![CDATA[捐献本项目]]></title>
+            <link>https://tech-podcasts.github.io/it-technology-podcast/blog/2022/09/12/cost/donate-this-project</link>
+            <guid>/2022/09/12/cost/donate-this-project</guid>
+            <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[按照之前对 @LinuxSuRen 的承诺，本项目已超过预期 star，将捐献本项目至 https//github.com/opensource-f2f ，更多信息请参考随附的链接。]]></description>
+            <content:encoded><![CDATA[<p>按照之前对 <a href="https://github.com/LinuxSuRen" target="_blank" rel="noopener noreferrer" title="LinuxSuRen">@LinuxSuRen</a> 的承诺，本项目已超过预期 star，将捐献本项目至 <a href="https://github.com/tech-podcasts" target="_blank" rel="noopener noreferrer">https://github.com/tech-podcasts</a> 或者 <a href="https://github.com/opensource-f2f" target="_blank" rel="noopener noreferrer">https://github.com/opensource-f2f</a> ，更多信息请参考随附的链接。</p><p>特别感谢 <a href="https://github.com/LinuxSuRen" target="_blank" rel="noopener noreferrer" title="LinuxSuRen">@LinuxSuRen</a>、<a href="https://github.com/wey-gu" target="_blank" rel="noopener noreferrer">@wey-gu</a>、<a href="https://github.com/CaliCastle" target="_blank" rel="noopener noreferrer" title="CaliCastle">@CaliCastle</a>、<a href="https://github.com/showjason" target="_blank" rel="noopener noreferrer" title="showjason">@showjason</a> 对本仓库的支持。</p><p>感谢大家的支持。</p><p><strong>相关链接：</strong></p><ul><li><a href="https://github.com/tech-podcasts/it-technology-podcast/issues/8" target="_blank" rel="noopener noreferrer" title="捐献本项目">捐献本项目</a></li><li><a href="https://github.com/tech-podcasts/community/issues/5" target="_blank" rel="noopener noreferrer" title="迁移《IT 技术相关播客列表》到当前 Org 下维护">迁移《IT 技术相关播客列表》到当前 Org 下维护</a></li></ul>]]></content:encoded>
+            <category>公告</category>
+            <category>项目捐献</category>
+        </item>
+    </channel>
+</rss>
